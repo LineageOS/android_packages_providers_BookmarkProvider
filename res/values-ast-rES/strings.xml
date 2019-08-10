@@ -15,6 +15,5 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- The name of the application. -->
-  <string name="application_name">Fornidor de marcadores</string>
+    <string name="application_name">Fornidor de marcadores</string>
 </resources>
